@@ -16,7 +16,7 @@ from database design and payments to deployment.
 A production-ready food ordering platform built for a real South African shisanyama (braai restaurant) serving a university campus.
 
 <a href="https://github.com/24039890/ndove-shisanyama-ordering-platform">
-  <img src="assets/ndove-checkout.png" alt="Ndove Shisanyama ordering platform — checkout and payment" width="760" />
+  <img src="assets/ndove-home.jpg" alt="Ndove Shisanyama ordering platform — home page" width="760" />
 </a>
 
 - 💳 **PayFast payments** with webhook verification, idempotent checkout and stock reservation under row locks
